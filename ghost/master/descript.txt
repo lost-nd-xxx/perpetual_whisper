@@ -1,0 +1,19 @@
+charset,UTF-8
+name,パペチュアル・ウィスパー
+type,ghost
+
+craftman,lost_nd_xxx
+craftmanw,ろすえん
+craftmanurl,https://lnx.flop.jp/
+
+sakura.name,エイとビイ
+
+icon,perpetual_check.ico
+shiori,yaya.dll
+
+readme.charset,UTF-8
+
+// homeurl,https://raw.githubusercontent.com/lost-nd-xxx/perpetual_whisper/main/
+
+balloon,whisper from inside
+default.balloon.path,whisper_from_inside

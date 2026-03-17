@@ -1,0 +1,6 @@
+charset,UTF-8
+name,パペチュアル・ウィスパー
+type,ghost
+directory,lnx_perpetual_whisper
+balloon.directory,whisper_from_inside
+balloon.source.directory,whisper_from_inside
