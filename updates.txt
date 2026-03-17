@@ -1,6 +1,6 @@
 charset,UTF-8
 file,developer_options.txt0a10830176cd57f48e9d63ed8c84ccd3size=226date=2012-12-21T00:00:00
-file,ghost/master/descript.txtcdf3a9d6ab40ac18081a4a3308d66534size=390date=2012-12-21T00:00:00
+file,ghost/master/descript.txt06f1c0eb0ae59d9dd3578459ecbce86csize=387date=2012-12-21T00:00:00
 file,ghost/master/dic/emerg/yaya_emerg_dic.dicafd0b1b5b1651c40b167a9a766b354fdsize=641date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_aitalk.dic7b5a2e89af28e657cf1e5458cd2de311size=11716date=2012-12-21T00:00:00
 file,ghost/master/dic/normal/yaya_bootend.dicf7187f178251a4bc95326300f5ce73bdsize=4717date=2012-12-21T00:00:00
@@ -24,7 +24,7 @@ file,ghost/master/yaya.dllb2d3b6472fb17b9810ad7c82312b032dsize=880640date=201
 file,ghost/master/yaya.txtfe1cb16869dfd92a272d73c9b7a3cbdcsize=1992date=2012-12-21T00:00:00
 file,ghost/master/yaya_emerg.txte442c05c28c759bfcee6e89f5e6a5e9asize=1054date=2012-12-21T00:00:00
 file,install.txtfa7d1eb626258ba841c4b326892a6884size=182date=2012-12-21T00:00:00
-file,readme.txt345063cb6882bf677e81c202c0fd8884size=1757date=2012-12-21T00:00:00
+file,readme.txt87fa0f3072a55df5c6d30a3eb000e2afsize=1760date=2012-12-21T00:00:00
 file,shell/master/atari.pngcac5c79989ff7a7bb01a6c851d6b39dfsize=2767date=2012-12-21T00:00:00
 file,shell/master/descript.txt110ef5939b63f03f0a3e2b0e4f6d323csize=620date=2012-12-21T00:00:00
 file,shell/master/menu_background.png00777b7480dd5a5eacad900848a2a3a7size=96date=2012-12-21T00:00:00
