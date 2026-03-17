@@ -13,7 +13,7 @@ shiori,yaya.dll
 
 readme.charset,UTF-8
 
-// homeurl,https://raw.githubusercontent.com/lost-nd-xxx/perpetual_whisper/main/
-
 balloon,whisper from inside
 default.balloon.path,whisper_from_inside
+
+homeurl,https://raw.githubusercontent.com/lost-nd-xxx/perpetual_whisper/main/

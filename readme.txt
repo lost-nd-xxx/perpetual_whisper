@@ -49,7 +49,8 @@
 
 
 ## 二次創作などについて
-[配布サイト](https://lnx.flop.jp/about.html#rule)をご覧ください。
+* 配布サイトをご覧ください。
+  * https://lnx.flop.jp/about.html#rule
 
 
 ## 連絡先
